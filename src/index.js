@@ -13,7 +13,7 @@ import { SpeechProvider } from '@speechly/react-client'
 ReactDOM.render(
   <SpeechProvider appId="815a8a5c-1ef3-4d00-916d-1948c9dd0a0a" language="en-US">
   <Auth0Provider
-    domain='o0eZsjpA4o3qihhvQo2IoVY2HYZVxe2M'
+    domain='dev-erosrb8n.us.auth0.com'
     clientId='o0eZsjpA4o3qihhvQo2IoVY2HYZVxe2M'
     redirectUri={window.location.origin}
     cacheLocation='localstorage'
